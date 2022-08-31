@@ -37,3 +37,5 @@ MANIFEST
 .idea/modules.xml
 .idea/vcs.xml
 
+# Jupiter Notebooks
+.ipynb_checkpoints
