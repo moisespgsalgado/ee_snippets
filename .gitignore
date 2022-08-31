@@ -27,3 +27,13 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+
+# PyCharm Files
+.idea/
+.idea/.gitignore
+.idea/gee.iml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+
